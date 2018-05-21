@@ -6,6 +6,10 @@
 * **Image**
    * [ImageSLiderAutomatically](https://github.com/ahmadsolehin/Create-Autoplay-Slides-using-Ionic-2/tree/master/src/pages/home)
 
+## Install video plugin
+
+* [video plugin](https://www.techiediaries.com/ionic-video-playing/)
+
 ## How to run
 
  
