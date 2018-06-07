@@ -26,3 +26,32 @@ a{
 .icon{
 	margin-left: 10px;
 }
+=======
+a{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    font-family: fantasy;
+}
+.icon-menuProfil{
+    font-size: 40px;
+    color: #00b052;
+}
+.col-4{
+    margin-top: 6px;
+    margin-right: 10px;
+    margin-bottom: 22px;
+    border-bottom-style: hidden;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+}
+.item p {
+    color: #000;
+    font-size: 14px;
+    margin-top: 1px;
+    text-align: center;
+}
+.icon{
+	margin-left: 10px;
+}
